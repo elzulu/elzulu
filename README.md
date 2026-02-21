@@ -2,7 +2,9 @@
 
 ### 🎓 Ingeniero de Sistemas y Desarrollador Backend
 
-Soy un estudiante avanzado de Ingeniería de Sistemas, apasionado por la **construcción de sistemas robustos y escalables** utilizando Java y el ecosistema Spring. Me enfoco en el desarrollo Backend, la calidad del código y la implementación de soluciones que cumplan con los estándares de la industria.
+Soy Desarrollador Backend con enfoque en **Java y el ecosistema Spring**, especializado en la construcción de **APIs REST seguras, escalables y bien estructuradas**.
+
+Me apasiona diseñar sistemas robustos, aplicar buenas prácticas como **arquitectura en capas, principios SOLID y control de versiones profesional**, y desarrollar soluciones que generen impacto real en procesos empresariales.
 
 ---
 
@@ -12,11 +14,11 @@ Aquí están las tecnologías y herramientas con las que trabajo regularmente:
 
 | Categoría | Tecnologías Clave |
 | :--- | :--- |
-| **Lenguaje Core** | `Java` |
+| **Lenguaje Core** | `Java`, `Python` |
 | **Frameworks** | `Spring Boot` (REST APIs, Seguridad), `JPA/Hibernate` |
 | **Bases de Datos** | `MySQL`, `PostgreSQL`, `SQL` |
 | **Control de Versiones** | `Git`, `GitHub` |
-| **Herramientas** | `Maven`, `Postman`, `IntelliJ IDEA` |
+| **Herramientas** | `Maven`, `Postman`, `IntelliJ IDEA`, `Antigravity`, `Visual studio code`, `linux` |
 
 ---
 
