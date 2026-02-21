@@ -42,8 +42,8 @@ Mi GitHub es mi portafolio activo. Aquí puedes encontrar ejemplos de mis habili
 
 Estoy siempre abierto a colaborar en proyectos y a discutir nuevas tecnologías.
 
-[![LinkedIn]([www.linkedin.com/in/josemanuelzuluagafigueroa](https://www.linkedin.com/in/josemanuelzuluagafigueroa/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[josezuluagainge@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JoseZuluaga-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josemanuelzuluagafigueroa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josezuluagainge@gmail.com)
 
 ---
 
